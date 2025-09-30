@@ -41,3 +41,4 @@ nav:
   - TryHackMe:
     - Overwiew: tryhackme/README.md
     - Valley: tryhackme/valley/README.md
+    - RootMe: tryhackme/rootme/README.md
