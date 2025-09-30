@@ -26,6 +26,8 @@ theme:
         name: Switch to system preference
       primary: amber
       accent: amber
+  features:
+    - navigation.tabs
 
 nav:
   - Accueil: index.md
