@@ -29,6 +29,10 @@ theme:
   features:
     - navigation.tabs
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 nav:
   - Home: index.md
   - TryHackMe:
