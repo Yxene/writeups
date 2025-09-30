@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Test embed PDF
 
 La présentation est ici:
