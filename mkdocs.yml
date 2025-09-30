@@ -30,4 +30,6 @@ theme:
     - navigation.tabs
 
 nav:
-  - Accueil: index.md
+  - Home: index.md
+  - TryHackMe: tryhackme/tryhackme.md
+    - Valley: tryhackme/valley/valley.md

@@ -1,15 +1,3 @@
----
-hide:
-  - toc
-  - navigation
----
-
-# Test embed PDF
-
-La présentation est ici:
+# My CTF Writeups
 
 
-<embed src="QWU - Valley.pdf" type="application/pdf" width="100%" height="800px" />
-
-
-Fin.
