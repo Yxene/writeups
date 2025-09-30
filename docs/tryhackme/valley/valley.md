@@ -9,7 +9,7 @@ hide:
 My writeup for the [Valley challenge](https://tryhackme.com/room/valleype):
 
 
-<embed src="tryhackme/valley/QWU - Valley.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="valley/QWU - Valley.pdf" type="application/pdf" width="100%" height="800px" />
 
 
 .
