@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Test embed PDF","text":"<p>La pr\u00e9sentation est ici:</p> <p></p> <p>Fin.</p>"}]}
