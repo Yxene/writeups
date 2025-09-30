@@ -28,6 +28,7 @@ theme:
       accent: amber
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
 
 markdown_extensions:
   - attr_list
