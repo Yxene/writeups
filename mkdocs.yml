@@ -34,7 +34,7 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - Home: index.md
+  - Home: README.md
   - TryHackMe:
     - Overwiew: tryhackme/README.md
     - Valley: tryhackme/valley/README.md
