@@ -1,4 +1,9 @@
-# TryHackMe
+---
+hide:
+  - toc
+---
+
+# TryHackMe :simple-tryhackme:
 
 <div class="grid cards" markdown>
 
