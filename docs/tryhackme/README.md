@@ -23,4 +23,12 @@ hide:
 
     [:octicons-arrow-right-24: Read the writeup](valley/README.md)
 
+-   :material-cheese: __Cheese CTF__
+
+    ---
+
+    Inspired by the great cheese talk of THM!
+
+    [:octicons-arrow-right-24: Read the writeup](valley/README.md)
+
 </div>
