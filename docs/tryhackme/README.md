@@ -39,4 +39,12 @@ hide:
 
     [:octicons-arrow-right-24: Read the writeup](valley/README.md)
 
+-   :material-chili-mild-outline: __Startup__
+
+    ---
+
+    Abuse traditional vulnerabilities via untraditional means.
+
+    [:octicons-arrow-right-24: Read the writeup](valley/README.md)
+
 </div>
