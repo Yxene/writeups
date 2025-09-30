@@ -31,4 +31,12 @@ hide:
 
     [:octicons-arrow-right-24: Read the writeup](valley/README.md)
 
+-   :material-ufo-outline: __Agent Sudo__
+
+    ---
+
+    You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
+
+    [:octicons-arrow-right-24: Read the writeup](valley/README.md)
+
 </div>
