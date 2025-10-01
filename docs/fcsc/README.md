@@ -21,5 +21,12 @@ hide:
     Forensic track about Docker.
 
     [:octicons-arrow-right-24: Read the writeup](layer-cake/README.md)
+-   :material-image-text: __Meme Generator__ (FCSC 2024)
+
+    ---
+
+    Web challenge about XSS.
+
+    [:octicons-arrow-right-24: Read the writeup](meme-generator/README.md)
 
 </div>
