@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-mountain-sun: __Petite frappe__ (FCSC 2020)
+-   :material-keyboard-variant: __Petite frappe__ (FCSC 2020)
 
     ---
 
