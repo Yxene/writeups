@@ -55,3 +55,6 @@ nav:
   - UnitedCTF:
     - Overwiew: unitedctf/README.md
     - ARPacadabra: unitedctf/arpacadabra/README.md
+  - CryptoHack:
+    - Overwiew: cryptohack/README.md
+    - ARPacadabra: cryptohack/json-in-json/README.md
