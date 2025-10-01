@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# FCSC :rooster:
+# UnitedCTF :material-flag-outline:
 
 <div class="grid cards" markdown>
 
