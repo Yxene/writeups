@@ -52,3 +52,6 @@ nav:
     - Layer Cake: fcsc/layer-cake/README.md
     - Meme Generator: fcsc/meme-generator/README.md
     - CryptoLocker v1: fcsc/cryptolocker-v1/README.md
+  - UnitedCTF:
+    - Overwiew: unitedctf/README.md
+    - ARPacadabra: unitedctf/arpacadabra/README.md
