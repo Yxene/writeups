@@ -11,8 +11,15 @@ hide:
 
     ---
 
-    Track about keyloggers.
+    Forensic track about keyloggers.
 
     [:octicons-arrow-right-24: Read the writeup](petite-frappe/README.md)
+-   :simple-docker: __Layer Cake__ (FCSC 2024)
+
+    ---
+
+    Forensic track about Docker.
+
+    [:octicons-arrow-right-24: Read the writeup](layer-cake/README.md)
 
 </div>
